@@ -1,0 +1,6 @@
+@StajApp_HostAddress = http://localhost:5039
+
+GET {{StajApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
